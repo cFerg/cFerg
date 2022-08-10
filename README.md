@@ -1,7 +1,56 @@
 ### Howdy, partner 🤠
 
-I'm Caleb, but I usually go by Elite online. Here are a few things about me:
+&emsp;I'm Caleb, but I usually go by Elite online. I have on-off history with programming as far back as 21~22 years now; Starting right before I turned 7. My dad helped initially show me how to do computer repairs, which included performing operations, and making scripts (Back when we still used Floppy Drives). On my free time I started messing around with batch and inspect element, 
+> "Oh, when I changed this value, it just made the text turn red" 
 
+...and these curiosity moments sparked my interest to actually learn languages properly.
+
+<details><summary>Non Exhaustive List of Languages I have previously learned.</summary>
+
+<br>
+
+Previously learned:
+```c
+  - HTML 3.2 (1999~)
+    - I also learned that version of CSS
+  - Bash
+  - Batch
+```
+(Mostly focused on academics, but still did a lot of random scripting languages, I don't remember the names to, on the side)
+```c
+  - Alice (2007)
+  - Java (2008)
+  - C++ (2009)
+  - Nim
+  - LUA (2012)
+  - Julia pre 1.0 (2012~)
+  - HTML 4.01 (2013)
+    - The current version of CSS, PHP, and JS were also learned then for Web Dev
+  - VB.Net (2013)
+  - C# (2013)
+  - GML (2014)
+```
+(Mostly focused on work, and was a Java Dev for Games and did Web Dev during this period)
+```c
+  - Kotlin (~2018)
+  - Haskell (Learned it during a timed competition)
+  - Python (2020)
+```
+
+Currently learning:
+```c
+  - Algol60 (2022)
+  - Cobol (2022)
+```
+
+Left out Esoteric languages, and a ton of scripting langs.
+
+\* Only put dates to the ones I knew exact timeframes for
+</details>
+
+---
+
+Here are a few other things about me:
 - 🙋‍♂️ I'm a 28 y.o. male.
   - [He/Him](https://gender.fandom.com/wiki/Boyflux) or [They/Them](https://gender.fandom.com/wiki/Boyflux) are fine.
 - 🎓 My Alumnus History: 
