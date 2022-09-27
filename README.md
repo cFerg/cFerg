@@ -32,8 +32,9 @@ Previously learned:
 ```
 (Mostly focused on work, and was a Java Dev for Games and did Web Dev during this period)
 ```c
-  - Kotlin (~2018)
-  - Haskell (Learned it during a timed competition)
+  - Kotlin (2015~)
+  - Had to learn both Git and Nano here (2018)
+  - Haskell (During a timed competition | 2019)
   - Python (2020)
 ```
 
@@ -51,7 +52,7 @@ Left out Esoteric languages, and a ton of scripting langs.
 ---
 
 Here are a few other things about me:
-- 🙋‍♂️ I'm a 28 y.o. male.
+- 🙋‍♂️ I'm a 29 y.o. male.
   - [He/Him](https://gender.fandom.com/wiki/Boyflux) or [They/Them](https://gender.fandom.com/wiki/Boyflux) are fine.
 - 🎓 My Alumnus History: 
   - [SWCC - Game Development (2013-2014)](https://sw.edu/)
