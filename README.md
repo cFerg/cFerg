@@ -52,7 +52,7 @@ Left out Esoteric languages, and a ton of scripting langs.
 ---
 
 Here are a few other things about me:
-- 🙋‍♂️ I'm a 29 y.o. male.
+- 🙋‍♂️ I'm a 32 y.o. male.
   - [He/Him](https://gender.fandom.com/wiki/Boyflux) or [They/Them](https://gender.fandom.com/wiki/Boyflux) are fine.
 - 🎓 My Alumnus History: 
   - [SWCC - Game Development (2013-2014)](https://sw.edu/)
@@ -60,8 +60,12 @@ Here are a few other things about me:
   - [GMU - Database and Technology Programming (2019-2021)](https://www.gmu.edu/)
     - Left after Covid started, but I plan to transfer to `VA-Tech` to finish my Masters in Software Engineering
 - 🤝How to reach me (in Most-Least response time order):
-  - <a href="#"><img width="20px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a> Discord [`Elite#0007`](https://discord.com/users/167417801873555456)
-  - <a href="#"><img width="20px" src="https://cdn-icons-png.flaticon.com/512/779/779088.png"></a> Here [`@cFerg`](https://github.com/cFerg)
-  - <a href="#"><img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308"></a> Email [`mrcalebf@gmail.com`](mailto:mrcalebf@gmail.com)
-  - <a href="#"><img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055"></a> LinkedIn [`EliteDev`](https://www.linkedin.com/in/elitedev/)
+  - <a href="https://discord.com/users/167417801873555456"><img width="20px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg"></a> Discord [`dr_e`](https://discord.com/users/167417801873555456)
+  - <a href="https://github.com/cFerg"><img width="20px" src="https://cdn-icons-png.flaticon.com/512/779/779088.png"></a> Here [`@cFerg`](https://github.com/cFerg)
+  - <a href="mailto:mrcalebf@gmail.com"><img width="20px" src="https://cdn.simpleicons.org/gmail/EA4335"></a> Email [`mrcalebf@gmail.com`](mailto:mrcalebf@gmail.com)
+  - <a href="https://www.linkedin.com/in/elitedev/"><img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a> LinkedIn [`EliteDev`](https://www.linkedin.com/in/elitedev/)
   - For other platforms, you'll need to ask.
+
+- 🏛️ Civic & Org roles:
+  - Founder & Executive Director — [United Assembly](https://unitedassembly.us) (nonpartisan civic nonprofit, VA)
+  - Technology Lead — [Russell County Democratic Committee](https://russelldems.org)
